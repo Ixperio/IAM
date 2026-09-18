@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IAM-API", "IAM-API.csproj", "{65BD8D29-4124-493A-BDD2-1B984160885E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAM-CORE", "..\IAM-CORE\IAM-CORE.csproj", "{D59BB6DD-5B3C-4AAC-8E5E-0932A500EE38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65BD8D29-4124-493A-BDD2-1B984160885E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65BD8D29-4124-493A-BDD2-1B984160885E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65BD8D29-4124-493A-BDD2-1B984160885E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65BD8D29-4124-493A-BDD2-1B984160885E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59BB6DD-5B3C-4AAC-8E5E-0932A500EE38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D59BB6DD-5B3C-4AAC-8E5E-0932A500EE38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D59BB6DD-5B3C-4AAC-8E5E-0932A500EE38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D59BB6DD-5B3C-4AAC-8E5E-0932A500EE38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7119CC44-1FDC-4F65-BFD2-960C4B088D7E}
+	EndGlobalSection
+EndGlobal
